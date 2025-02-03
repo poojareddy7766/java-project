@@ -1,4 +1,7 @@
-# Creating a Todo list similar to https://github.com/poojareddy7766/go-project
+
+
+
+Creating a Todo list similar to https://github.com/poojareddy7766/go-project
 but java as backend
 
 Understand the differences between the usage of Go and java??
